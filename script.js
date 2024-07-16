@@ -1,0 +1,1 @@
+// setTimeout(close, 5000)
